@@ -83,8 +83,3 @@ python3 streaming/kafka_producer.py
 spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.3 \
   streaming/spark_streaming_consumer.py
 ```
-
-## Videos
-
-- Procesamiento en batch: _[enlace]_
-- Tiempo real con Kafka y Streaming: _[enlace]_
